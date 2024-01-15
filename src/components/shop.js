@@ -2,7 +2,7 @@ import React from 'react';
 
 function Shop() {
   return (
-    <section className="shop_section layout_padding">
+    <section className="shop_section layout_padding" id='shop'>
       <div className="container">
         <div className="heading_container heading_center">
           <h2>Latest Products</h2>
@@ -18,7 +18,7 @@ function Shop() {
                   <h6>Ring</h6>
                   <h6>
                     Price
-                    <span>$200</span>
+                    <span>200DT</span>
                   </h6>
                 </div>
                 <div className="new">
@@ -40,7 +40,7 @@ function Shop() {
                 <h6>
                   Price
                   <span>
-                    $300
+                    300DT
                   </span>
                 </h6>
               </div>
@@ -66,7 +66,7 @@ function Shop() {
                 <h6>
                   Price
                   <span>
-                    $110
+                    110DT
                   </span>
                 </h6>
               </div>
@@ -91,7 +91,7 @@ function Shop() {
                 <h6>
                   Price
                   <span>
-                    $45
+                    45DT
                   </span>
                 </h6>
               </div>
@@ -116,7 +116,7 @@ function Shop() {
                 <h6>
                   Price
                   <span>
-                    $95
+                    95DT
                   </span>
                 </h6>
               </div>
@@ -141,7 +141,7 @@ function Shop() {
                 <h6>
                   Price
                   <span>
-                    $70
+                    70DT
                   </span>
                 </h6>
               </div>
@@ -166,7 +166,7 @@ function Shop() {
                 <h6>
                   Price
                   <span>
-                    $400
+                    400DT
                   </span>
                 </h6>
               </div>
@@ -191,7 +191,7 @@ function Shop() {
                 <h6>
                   Price
                   <span>
-                    $450
+                    450DT
                   </span>
                 </h6>
               </div>

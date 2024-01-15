@@ -18,8 +18,7 @@ function Saving() {
                     </h2>
                   </div>
                   <p>
-                    Qui ex dolore at repellat, quia neque doloribus omnis adipisci, ipsum eos odio fugit ut eveniet blanditiis praesentium totam non nostrum dignissimos nihil eius facere et eaque. Qui, animi obcaecati.
-                  </p>
+                  Syry Stock offers you the exclusive opportunity to save more on the latest arrivals with our "BEST SAVINGS ON NEW ARRIVALS" feature. Be among the first to get exclusive offers and maximize your savings on the newest items added to your inventory.                  </p>
                   <div className="btn-box">
                     <a href="#" className="btn1">
                       Buy Now

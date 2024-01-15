@@ -25,8 +25,7 @@ function Footer() {
                 ABOUT US
               </h6>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet,
-              </p>
+              Welcome to Syry Stock, your dedicated partner in inventory management and operations optimization. At Syry Stock, our mission is simple: simplify the lives of businesses and individuals by offering an intuitive and powerful solution to effectively manage their inventory              </p>
             </div>
             <div className="col-md-6 col-lg-3">
               <div className="info_form">
@@ -46,8 +45,7 @@ function Footer() {
                 NEED HELP
               </h6>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet,
-              </p>
+              At Syry Stock, we understand that inventory management can present challenges, and that's why our dedicated team is ready to offer you personalized support.              </p>
             </div>
             <div className="col-md-6 col-lg-3">
               <h6>
@@ -56,15 +54,15 @@ function Footer() {
               <div className="info_link-box">
                 <a href="">
                   <i className="fa fa-map-marker" aria-hidden="true"></i>
-                  <span> Gb road 123 london Uk </span>
+                  <span> Gb road 123 Tunis </span>
                 </a>
                 <a href="">
                   <i className="fa fa-phone" aria-hidden="true"></i>
-                  <span>+01 12345678901</span>
+                  <span>+216 75581436</span>
                 </a>
                 <a href="">
                   <i className="fa fa-envelope" aria-hidden="true"></i>
-                  <span> demo@gmail.com</span>
+                  <span> syrystock@gmail.com</span>
                 </a>
               </div>
             </div>
@@ -75,8 +73,8 @@ function Footer() {
       <footer className="footer_section">
         <div className="container">
           <p>
-            &copy; <span id="displayYear"></span> All Rights Reserved By
-            <a href="https://html.design/">Free Html Templates</a>
+            &copy; <span id="displayYear"></span> All Rights Reserved By syrystock
+           
           </p>
         </div>
       </footer>

@@ -20,8 +20,7 @@ function Gift() {
                     </h2>
                   </div>
                   <p>
-                    Omnis ex nam laudantium odit illum harum, excepturi accusamus at corrupti, velit blanditiis unde perspiciatis, vitae minus culpa? Beatae at aut consequuntur porro adipisci aliquam eaque iste ducimus expedita accusantium?
-                  </p>
+                  Syry Stock vous offre une expérience de shopping unique pour exprimer votre amour et vos sentiments envers vos proches. Découvrez une sélection soigneusement choisie de cadeaux qui feront sourire vos êtres chers, le tout, à portée de clic.                  </p>
                   <div className="btn-box">
                     <a href="#" className="btn1">
                       Buy Now

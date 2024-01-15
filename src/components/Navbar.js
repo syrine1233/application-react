@@ -3,7 +3,7 @@ function Navbar() {
     return <nav className="navbar navbar-expand-lg custom_nav-container ">
     <a className="navbar-brand" href="index.html">
       <span>
-        Giftos
+        SYRY STOCK 
       </span>
     </a>
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,27 +16,22 @@ function Navbar() {
           <a className="nav-link" href="app1/html/index.html">Home <span className="sr-only">(current)</span></a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="app1/html/shop.html">
+          <a className="nav-link" href="#shop">
             Shop
           </a>
         </li>
+        
         <li className="nav-item">
-          <a className="nav-link" href="why.html">
-            Why Us
-          </a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link" href="testimonial.html">
+          <a className="nav-link" href="#clients">
             Testimonial
           </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="contact.html">Contact Us</a>
+          <a className="nav-link" href="#contact">Contact Us</a>
         </li>
       </ul>
       <div className="user_option">
-        <a href="">
-          <i className="fa fa-user" aria-hidden="true"></i>
+        <a href="./components/login">
           <span>
             Login
           </span>

@@ -2,7 +2,7 @@ import React from 'react';
 
 function Client() {
   return (
-    <section className="client_section layout_padding">
+    <section className="client_section layout_padding" id='clients'>
       <div className="container">
         <div className="heading_container heading_center">
           <h2>Testimonial</h2>
@@ -15,13 +15,12 @@ function Client() {
               <div className="box">
                 <div className="client_info">
                   <div className="client_name">
-                    <h5>Morijorch</h5>
+                    <h5> Marie L. - Online Store Manager</h5>
                   </div>
                   <i className="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
-                  editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Variouseditors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Variouseditors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various
-                </p>
+                Syry Stock has revolutionized the way I manage my inventory online. Before, it was a constant challenge to keep track of inventory levels and maintain accuracy. Thanks to Syry Stock, everything has become so much easier.                </p>
               </div>
             </div>
             <div className="carousel-item">

@@ -7,8 +7,11 @@ import Gift from "./components/gift";
 import Contact from "./components/contact";
 import Client from "./components/client";
 
+
+
 function App() {
   return (
+    
     <div classNameName="header_section">  
     <Navbar />
     <Section />
