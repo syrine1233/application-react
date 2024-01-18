@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# .env
+GITHUB_USERNAME=syrine1233
+GITHUB_TOKEN=https://github.com/syrine1233

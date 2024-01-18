@@ -30,17 +30,7 @@ function Section() {
               </div>
               {/* Add other carousel items with similar changes */}
             </div>
-            <div className="carousel_btn-box">
-              <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <i className="fa fa-arrow-left" aria-hidden="true"></i>
-                <span className="sr-only">Previous</span>
-              </a>
-              <img src="app1/images/line.png" alt="" />
-              <a className="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <i className="fa fa-arrow-right" aria-hidden="true"></i>
-                <span className="sr-only">Next</span>
-              </a>
-            </div>
+          
           </div>
         </div>
       </section>

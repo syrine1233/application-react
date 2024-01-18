@@ -17,7 +17,6 @@ function Client() {
                   <div className="client_name">
                     <h5> Marie L. - Online Store Manager</h5>
                   </div>
-                  <i className="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
                 Syry Stock has revolutionized the way I manage my inventory online. Before, it was a constant challenge to keep track of inventory levels and maintain accuracy. Thanks to Syry Stock, everything has become so much easier.                </p>
@@ -29,7 +28,6 @@ function Client() {
                   <div className="client_name">
                     <h5>Rochak</h5>
                   </div>
-                  <i className="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
                   Variouseditors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Variouseditors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.
@@ -42,7 +40,7 @@ function Client() {
                   <div className="client_name">
                     <h5>Brad Johns</h5>
                   </div>
-                  <i className="fa fa-quote-left" aria-hidden="true"></i>
+                 
                 </div>
                 <p>
                   Variouseditors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy, editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Variouseditors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various
@@ -52,11 +50,11 @@ function Client() {
           </div>
           <div className="carousel_btn-box">
             <a className="carousel-control-prev" href="#customCarousel2" role="button" data-slide="prev">
-              <i className="fa fa-angle-left" aria-hidden="true"></i>
+             
               <span className="sr-only">Previous</span>
             </a>
             <a className="carousel-control-next" href="#customCarousel2" role="button" data-slide="next">
-              <i className="fa fa-angle-right" aria-hidden="true"></i>
+             
               <span className="sr-only">Next</span>
             </a>
           </div>
