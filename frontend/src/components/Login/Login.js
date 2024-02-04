@@ -18,13 +18,16 @@ import loginstyle from "./Login.module.css";
         .catch(err=>console.log(err))
     }
  return (
-  <div>
-          <Navbar/>
+    <div >
+     <Navbar/>
+     <div className="container container-bg">
+        <div className="row">
+     <div className="col-lg-7 col-md-6 px-0">
 
     <div className={loginstyle.login}>
-            <h1>Login</h1>
+            <h2>Login</h2>
             <form onSubmit={handleSubmit}>
-                <div className="mb-3">
+                <div >
                     <label htmlFor="email">
                         <strong>Name</strong>
                     </label>
@@ -39,7 +42,7 @@ import loginstyle from "./Login.module.css";
                 </div>
                 <p className={basestyle.error}></p>
 
-                <div className="mb-3">
+                <div >
                     <label htmlFor="email">
                         <strong>Email</strong>
                     </label>
@@ -54,7 +57,7 @@ import loginstyle from "./Login.module.css";
                     />
                 </div>
 
-                <div className="mb-3">
+                <div >
                     <label htmlFor="email">
                         <strong>Password</strong>
                     </label>
@@ -75,10 +78,14 @@ import loginstyle from "./Login.module.css";
             <Link to="/login" className="btn btn-default border w-100 bg-light rounded-0">
               Login
             </Link>
+          </div>
         </div>
-
+        <div className="col-md-6 col-lg-5 px-0">
+                        <img src="app1/images/slider-img.png" alt="" />
+            </div>
+      </div>
     </div>
-    
+    </div>
   );
 };
 export default Login;

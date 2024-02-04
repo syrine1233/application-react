@@ -42,13 +42,13 @@ const Contact = () => {
             <div className="map_container">
               <div className="map-responsive">
               <iframe
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3197.8554508333455!2d10.253304874693885!3d36.72603267187878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12fd362adc182301%3A0xd3937b63f4c56d1b!2sCentre%20Commercial%20AZUR%20CITY!5e0!3m2!1sfr!2stn!4v1705603706963!5m2!1sfr!2stn"
-  width="600"
-  height="300"
-  frameBorder="0"
-  style={{ border: 0, width: '100%', height: '100%' }}
-  allowFullScreen
-></iframe>
+                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3197.8554508333455!2d10.253304874693885!3d36.72603267187878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12fd362adc182301%3A0xd3937b63f4c56d1b!2sCentre%20Commercial%20AZUR%20CITY!5e0!3m2!1sfr!2stn!4v1705603706963!5m2!1sfr!2stn"
+                 width="600"
+                height="300"
+                frameBorder="0"
+                 style={{ border: 0, width: '100%', height: '100%' }}
+                allowFullScreen>             
+                </iframe>
               </div>
             </div>
           </div>
