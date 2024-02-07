@@ -10,7 +10,6 @@ import Gift from "./components/home/gift";
 import Contact from "./components/home/contact";
 import Client from "./components/home/client";
 import Login from './components/Login/Login'; 
-import AddProduct from './components/AddProduct';
 
 function App() {
   return (
@@ -33,7 +32,6 @@ function App() {
             </div>
           }
         />
-         <Route path="add" element={<AddProduct/>}/>
 
       </Routes>
     </Router>

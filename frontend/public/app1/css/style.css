@@ -400,18 +400,64 @@ a:focus {
 .shop_section .btn-box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #f16179;
-  color: #ffffff;
-  border: 1px solid #f16179;
+  background-color: #ffffff;
+  color: #000;
+  border: 1px solid #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
   transition: all .3s;
+  margin-right: 10px; 
 }
+
 
 .shop_section .btn-box a:hover {
   background-color: transparent;
   color: #f16179;
 }
+
+.form-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
 
 .saving_section {
   padding-left: 45px;
